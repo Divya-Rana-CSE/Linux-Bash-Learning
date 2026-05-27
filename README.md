@@ -13,6 +13,15 @@ Introduction to essential Linux/Bash commands and basic shell scripting.
 - `myscript.sh` - Custom shell script for practice
 - `practice.sh` - Practice exercises for shell scripting
 
+### DAY2 - Variables
+Working with variables in bash scripts, command substitution, and environment variables.
+
+**Files:**
+- `Variables.md` - Documentation of variable declaration, usage, and quoting rules
+- `practice` - Bash script with each variable command used
+- `myscript` - Practice script demonstrating variable usage
+- `uses` - Practice script showing real-world variable applications
+
 ## 🚀 Getting Started
 
 To use these scripts, you'll need:
@@ -43,6 +52,9 @@ To use these scripts, you'll need:
 - Shell script basics
 - Working with bash variables and functions
 - Command execution and scripting fundamentals
+- Variable declaration and usage
+- Quoting rules (single vs double quotes)
+- Command substitution with $()
 
 ## 🎯 Purpose
 
@@ -50,4 +62,4 @@ This repository serves as a learning resource for understanding Linux/Bash funda
 
 ---
 
-**Last Updated:** May 26, 2026
+**Last Updated:** May 27, 2026
