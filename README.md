@@ -46,7 +46,11 @@ To use these scripts, you'll need:
 
 4. Explore and modify scripts to learn!
 
-## 📝 Topics Covered
+## � Learning Resources
+
+- [Linux and Bash Scripting Tutorial - YouTube Playlist](https://youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&si=kDwOff_qNME7IgtF)
+
+## �📝 Topics Covered
 
 - Basic Linux commands and file operations
 - Shell script basics
