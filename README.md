@@ -22,6 +22,13 @@ Working with variables in bash scripts, command substitution, and environment va
 - `myscript` - Practice script demonstrating variable usage
 - `uses` - Practice script showing real-world variable applications
 
+### DAY3 - Basic Maths
+Arithmetic operations and mathematical expressions in bash scripts.
+
+**Files:**
+- `Basic_Maths.md` - Documentation of expr, double parentheses, let command, bc calculator, and integer comparisons
+- `practice` - Practice script for arithmetic operations
+
 ## 🚀 Getting Started
 
 To use these scripts, you'll need:
